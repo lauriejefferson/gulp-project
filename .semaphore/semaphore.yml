@@ -15,7 +15,6 @@ blocks:
             - cache restore
             - npm install
             - cache store
-            - \
   - name: Gulp
     task:
       prologue:
